@@ -1,0 +1,11 @@
+dob = input("Date of Birth: ")
+age = input("What is your age: ")
+ice_cream_fav =  input("What is your favourite ice cream flavour: ")
+favourite_mov =  input("Your favourite movie?: ")
+favourite_col = input("Favourite colour: ")
+
+print(f"\nYour date of brith is {dob} ")
+print(f"Your are {age} years old")
+print(f"Your Favourite Ice Cream flavour {ice_cream_fav}")
+print(f"Your Favourite movie is {favourite_mov}")
+print(f"Your favourite colour {favourite_col}")
